@@ -1,0 +1,101 @@
+ProductID,Category,Subcategory,Gender,Style,Color,Occasion,BodyType
+M-Me-Me,Men's Raincoats,Men Raincoats,Men,Vintage,terracotta,N,Pear
+W-Wo-Sl,Women's Accessories,Sling bags,Women,Urban,White,Formal,Curvy
+M-Me-Th,Men's Bottomwear,Three-Fourths,Men,Artsy,Green,Retro Party,lanky
+W-Wo-Pr,Women's Jewellery,Precious Articles,Women,Retro,Red,Business Casual,Tall
+W-Wo-Hy,Women's Watches,Hybrid Watches,Women,Gothic,Grey,Holiday,Oval
+M-Me-Me,Men's Tracksuits,Men's Tracksuits,Men,Edgy,Marron,Prom,Athletic
+M-Me-Me,Men's Raincoats,Men Raincoats,Men,Classic,Pink,N,Tall and Slim
+W-Wo-Pr,Women's Jewellery,Precious Articles,Women,Futuristic,Red,Layering,Full-Figured
+W-Wo-Hy,Women's Watches,Hybrid Watches,Women,Formal,Green,Formal Cruise Night,Tall
+W-Wo-Dr,Women's Dresses and Gowns,Dresses,Women,Romantic,olive green,Beach,Long Torso
+M-Me-Ts,Men's Topwear,Tshirts,Men,Casual,Purple,Winter Fashion,Short and Stocky
+M-Me-Fo,Men's Footwear,Formal Shoes,Men,Trendy,Navy,Graduation,Diamond
+W-Wo-Et,"Women's Kurtas,Ethnic Sets and Bottoms",Ethnic Pyjamas,Women,Vintage,terracotta,Outdoor events,Oval
+M-Me-Ch,Men's Watches,Chain Watches,Men,Formal,Black,N,Tall and Slim
+W-Wo-Sw,Women's Innerwear and Swimwear,Swimsuits,Women,Sporty,silver,Business Casual,Hourglass
+M-Me-Ts,Men's Topwear,Tshirts,Men,Urban,Red,Picnic,Endomorph
+W-Wo-Py,Women's Sleepwear,Pyjamas and Lounge Pants,Women,Classic,gold,Casual,Lean and Slim
+M-Me-Dr,Men's Fabrics,Dress Materials,Men,Urban,olive green,Prom,Pear
+M-Me-Ni,Men's Sleepwear,Night Suits,Men,Artsy,Beige,N,Straight
+W-Wo-Ar,Women's Winter Wear,Arm Warmers,Women,Minimalist,terracotta,N,Pear
+M-Me-Me,Men's Tracksuits,Men's Tracksuits,Men,Urban,gold,Prom,Ectomorph
+W-Wo-Pe,Women's Sarees and Saree Essentials,Petticoats,Women,Chic,Blue,Beach,Hourglass
+W-Wo-Ku,"Women's Kurtas,Ethnic Sets and Bottoms",Kurtas,Women,Minimalist,Yellow,Layering,Full Bust
+W-Wo-Dh,"Women's Kurtas,Ethnic Sets and Bottoms",Dhoti Pants,Women,Classic,Purple,Business Casual,Short
+M-Me-Wa,"Men's Blazers,Waistcoats and Suits",Waistcoats,Men,Sporty,Orange,Outdoor events,lanky
+M-Me-Sh,Men's Fabrics,Shirt and Trouser Fabrics,Men,Western,Peach,Festive,Athletic
+W-Wo-Pr,Women's Jewellery,Precious Articles,Women,BOho-Chic,vibrant yellow,Retro Party,Full-Figured
+M-Me-Py,Men's Sleepwear,Pyjamas and Lounge Pants,Men,Trendy,Sage,A,Endomorph
+M-Me-Fo,Men's Footwear,Formal Shoes,Men,Sporty,Lavender,Festive,lanky
+M-Me-Ni,Men's Sleepwear,Night Suits,Men,Western,Teal,A,Straight
+M-Me-Co,"Men's Blazers,Waistcoats and Suits",Coats,Men,Romantic,gold,Festive,Ectomorph
+M-Me-Qu,Men's Watches,Quartz Watches,Men,Eclectic,mustard yellow,N,Tall and Slim
+W-Wo-Ha,Women's Bottowear,Harem Pants,Women,Bohemian,vibrant yellow,Garden Party,Athletic
+M-Me-Me,Men's Tracksuits,Men's Tracksuits,Men,Classic,mustard yellow,Casual,Circular
+W-Wo-Le,"Women's Kurtas,Ethnic Sets and Bottoms",Leggings and Churidars,Women,Country,Purple,Retro Party,Oval
+M-Me-Sh,Men's Topwear,Shirts,Men,Grunge,Marron,Ethnic,Regular
+W-Wo-Sa,Women's Sarees and Saree Essentials,Saree Falls,Women,Rock or Punk,Black,Sporty,Short Legs
+W-Wo-Ja,Women's Winter Wear,Jackets,Women,Edgy,terracotta,A,Diamond
+W-Wo-Ha,Women's Bottowear,Harem Pants,Women,Artsy,gold,Outdoor events,Lean and Slim
+M-Me-Su,Men's Clothing Accessories,Suspenders,Men,Western,Blue,Festive,Diamond
+M-Me-Bo,Men's Innerwear and Swimwear,Boxers,Men,Chic,Beige,N,Short and Stocky
+M-Me-Fo,Men's Fabrics,Formal Suit Fabrics,Men,BOho-Chic,Purple,Casual,Oval
+M-Me-Ts,Men's Topwear,Tshirts,Men,Casual,terracotta,Semi-Formal,Hourglass
+W-Wo-Ku,"Women's Kurtas,Ethnic Sets and Bottoms",Kurtas,Women,Eclectic,Navy,Party,Athletic
+W-Wo-Gi,Women's Raincoats,Girl's Raincoats,Women,Gothic,olive green,N,Oval
+M-Me-Me,Men's WindCheaters,Men's Windcheaters,Men,Minimalist,Brown,N,Endomorph
+M-Me-Br,Men's Innerwear and Swimwear,Briefs and Trunks,Men,Vintage,hot pink,A,Athletic
+W-Wo-Tw,Women's Watches,Two-Tone Watches,Women,Gothic,Blue,Vacation,Curvy
+M-Me-Sh,Men's Topwear,Shirts,Men,Preppy,Mint,Concert,Lean and Muscular
+W-Wo-Go,Women's Dresses and Gowns,Gowns,Women,Romantic,Beige,Picnic,Hourglass
+W-Wo-Ca,Women's Bottowear,Cargos,Women,Prairie,Black,Festive,Lean and Slim
+W-Wo-Sa,"Women's Kurtas,Ethnic Sets and Bottoms",Salwars and Patialas,Women,Grunge,Sage,Weddings,Short
+W-Wo-Wo,Women's Jumpsuits and Dungarees,Women Jumpsuits and Dungarees,Women,Artsy,Grey,Formal,Full Bust
+M-Me-Sh,Men's Winter Wear,Shrugs,Men,Formal,Sage,A,Athletic
+M-Me-Sm,Men's Watches,Smart Watches,Men,Artsy,Beige,A,Oval
+W-Wo-Wo,Women's Jumpsuits and Dungarees,Women Jumpsuits and Dungarees,Women,Artsy,Blue,Layering,Long Torso
+M-Me-Sa,Men's Footwear,Sandals & Floaters,Men,Formal,White,Vacation,Pear
+M-Me-Me,Men's Tracksuits,Men's Tracksuits,Men,Sporty,terracotta,Dance outfits,Straight
+W-Wo-Ts,Women's Topwear,Tshirts,Women,Sporty,Grey,Professional,Curvy
+M-Me-Me,Men's Tracksuits,Men's Tracksuits,Men,Classic,Beige,Dance outfits,Mesomorph
+W-Wo-Tr,Women's Bottowear,Trousers,Women,Casual,mustard yellow,Sporty looks,Curvy
+W-Wo-Sl,Women's Footwear,Slippers & Flip Flops,Women,Futuristic,Black,Picnic,Oval
+M-Me-Me,Men's WindCheaters,Men's Windcheaters,Men,Vintage,Black,N,Slim
+W-Wo-Gi,Women's Lehenge Cholis,Girl's Lehenge Cholis,Women,Trendy,hot pink,Formal Cruise Night,Slim Hips
+M-Me-Fl,Men's Footwear,Flip Flops,Men,Artsy,Teal,Outdoor events,Endomorph
+W-Wo-Gi,Women's Lehenge Cholis,Girl's Lehenge Cholis,Women,Western,Navy,Cocktail,Slim Hips
+W-Wo-Sw,Women's Innerwear and Swimwear,Swimsuits,Women,Casual,Marron,Religious Ceremonies,Full Bust
+W-Wo-To,Women's Topwear,Tops,Women,Eclectic,hot pink,Sporty,Full-Figured
+M-Me-Su,Men's Accessories,Sunglasses,Men,Rock or Punk,Beige,Graduation,Athletic
+W-Wo-Wr,Women's Clothing Accessories,Wristbands,Women,Artsy,Lavender,Winter Fashion,Short Legs
+W-Wo-Gi,Women's Raincoats,Girl's Raincoats,Women,Casual,Green,A,Tall
+W-Wo-Wo,Women's Tracksuits,Women Tracksuits,Women,Prairie,White,Festive,Straight
+M-Me-Dr,Men's Fabrics,Dress Materials,Men,Vintage,hot pink,Graduation,Oval
+W-Wo-Ca,Women's Innerwear and Swimwear,Camisoles and Slips,Women,Edgy,Mint,Graduation,Full-Figured
+M-Me-Me,Men's WindCheaters,Men's Windcheaters,Men,Edgy,Beige,A,Mesomorph
+M-Me-Sw,Men's Innerwear and Swimwear,Swimsuits,Men,Preppy,Lavender,A,Lean and Muscular
+M-Me-Me,Men's WindCheaters,Men's Windcheaters,Men,Retro,Purple,A,Mesomorph
+M-Me-Me,Men's Raincoats,Men Raincoats,Men,Romantic,White,A,Tall and Slim
+M-Me-Wr,Men's Clothing Accessories,Wristbands,Men,Vintage,silver,N,Hourglass
+M-Me-Su,"Men's Blazers,Waistcoats and Suits",Suits,Men,Gothic,Marron,Retro Party,Straight
+M-Me-Me,Men's Tracksuits,Men's Tracksuits,Men,Edgy,terracotta,Bohemian Fashion,lanky
+W-Wo-Wo,Women's Jumpsuits and Dungarees,Women Jumpsuits and Dungarees,Women,Rock or Punk,Yellow,Date Night,Short
+W-Wo-Ti,Women's Clothing Accessories,Ties and Cufflins,Women,Bohemian,olive green,N,Full-Figured
+W-Wo-Mu,Women's Winter Wear,Mufflers,Women,Casual,olive green,A,Curvy
+W-Wo-Ch,Women's Watches,Chronograph Watches,Women,Sporty,Mint,Vacation,Oval
+W-Wo-Wo,Women's Tracksuits,Women Tracksuits,Women,Artsy,hot pink,Festive,Diamond
+M-Me-Lo,Men's Footwear,Loafers,Men,Trendy,Red,Maternity,Hourglass
+M-Me-Sw,Men's Winter Wear,Sweaters,Men,Western,hot pink,N,Mesomorph
+M-Me-Ni,Men's Sleepwear,Night Suits,Men,Gothic,Black,A,Endomorph
+W-Wo-Pr,Women's Jewellery,Precious Articles,Women,Sporty,Peach,Festive,Slim Hips
+W-Wo-Wo,Women's Jumpsuits and Dungarees,Women Jumpsuits and Dungarees,Women,Rock or Punk,Black,Bohemian Fashion,Short Legs
+M-Me-Ts,Men's Topwear,Tshirts,Men,Chic,Blue,Layering,Pear
+M-Me-Sp,Men's Footwear,Sports Shoes,Men,Futuristic,olive green,Vacation,Straight
+W-Wo-Sa,Women's Clothing Accessories,Sarong,Women,BOho-Chic,Pink,Religious Ceremonies,Curvy
+M-Me-Fo,Men's Fabrics,Formal Suit Fabrics,Men,Casual,hot pink,Sporty,Oval
+M-Me-Sh,Men's Topwear,Shirts,Men,Rock or Punk,Orange,Party,Tall and Slim
+M-Me-Fo,Men's Fabrics,Formal Suit Fabrics,Men,Rock or Punk,terracotta,Date Night,Tall and Slim
+W-Wo-Pr,Women's Jewellery,Precious Jewellery,Women,Bohemian,Black,Bohemian Fashion,Full Bust
+W-Wo-Su,"Women's Blazers,Waistcoats and Suits",Suits,Women,Futuristic,Marron,Date Night,Broad Shoulders
+M-Me-Ca,Men's Bottowear,Cargos,Men,Preppy,Black,Beach,Lean and Muscular
